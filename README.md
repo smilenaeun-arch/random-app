@@ -1,1 +1,1 @@
-# random-app
+# Personalized Study Planner
